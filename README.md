@@ -44,5 +44,11 @@ Gere a key do projeto Laravel
 php artisan key:generate
 ```
 
+Execute as migration para criar a base de dados e as tabelas.
+
+```sh
+php artisan migrate
+```
+
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
